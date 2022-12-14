@@ -6,9 +6,9 @@ This was the OOP Project I took in my 3rd semester i.e., to develop a simple spa
 
 KEYS:
 ------
-Movements: A - Left
-           D - Right
-           W - UP
+Movements: A - Left,
+           D - Right,
+           W - UP,
            S - Down
 
 Shooting:  Space/ RightClick
