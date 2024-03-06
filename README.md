@@ -13,4 +13,4 @@ Movements: A - Left,
 
 Shooting:  Space/ RightClick
 
-![Intro Page]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/Ashraf-mE/SFML_CPP_Game/blob/main/assests/IntroPage.jpg)https://github.com/Ashraf-mE/SFML_CPP_Game/blob/main/assests/IntroPage.jpg "Intro Page")
+![Intro Page]((https://github.com/Ashraf-mE/SFML_CPP_Game/blob/main/assests/IntroPage.jpg) "Intro Page")
